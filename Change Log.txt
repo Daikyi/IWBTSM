@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+IWBTE Seph Edition v4.0				( 12/25/2014 )
+---------------------------------------------------------------------------------------------------
++ The engine now uses the FMOD instead of SuperSound.
++ All SuperSound scripts have been removed.
++ Added FMOD scripts.
++ Added FMOD specific objects.
++ Removed CleanMem dll.
++ Removed all CleanMem scripts.
++ Fixed the frozen variable for the player object.
++ Fixed the player object having weird animation jerking when landing on a block.
++ Sound effects are now loaded externally.
++ Music and SFX handles are now global variables.
++ Added FMOD loading screen. (rLoading)
++ Added FMOD logo sprite.
++ Music slows down when the player is killed.
++ Music resumes normal speed when the player respawns.
++ Added Gameover music.
++ Removed sound_overlap script.
++ Renamed image_stop script to imageStop for convenience.
++ Renamed special_effect script to spFX for convenience.
