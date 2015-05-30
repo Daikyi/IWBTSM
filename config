@@ -1,0 +1,9 @@
+global.leftbutton = 37
+global.rightbutton = 39
+global.upbutton = 38
+global.downbutton = 40
+global.shotbutton = 90
+global.jumpbutton = 16
+global.restartbutton = 82
+global.musicOn = 1
+global.musicVolume = 1
